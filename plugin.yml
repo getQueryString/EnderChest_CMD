@@ -1,0 +1,9 @@
+name: EnderchestCommand
+author: Fin/getQueryString
+version: 1.0
+main: Main.main
+commands:
+  enderchest:
+    description: Oeffnet d/eine Enderchest.
+    aliases:
+    - ec
